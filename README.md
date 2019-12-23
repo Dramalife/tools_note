@@ -23,4 +23,5 @@ note/tools
 | |[quagga-1.2.4             ](/quagga-1.2.4            ) | |
 | |[strace5_syscall_trace    ](/strace5_syscall_trace   ) | |
 | |[tcpdump-4.9.2            ](/tcpdump-4.9.2           ) | |
+| |[coreutils-8.28	     ](/coreutils-8.28		) | |
 
